@@ -1,0 +1,161 @@
+# ====== VARIABLES (edit these) ======
+DOC_ID: {mees-ch1}                # stable slug for this doc, e.g., "mees-ch2"
+PRODUCT: {MEES}                   # product/area label
+CHAPTER_NAME: {How the Regulations Apply to Domestic Property}  # plain text
+CHAPTER_NUMBER: {1}               # number only, e.g., "2"
+PDF_TITLE: {The Domestic Private Rented Property Minimum Standard — Landlord Guidance}
+PDF_FILE_NAME: {Domestic_Private_Rented_Property_Minimum_Standard_-_Landlord_Guidance_2020.pdf}
+PDF_DATE_PUBLISHED: {2020-04-01}  # ISO date from the PDF
+PAGE_RANGE: {14–34}               # inclusive page range to use as the ONLY source
+LOCALE: {en-GB}                   # "en-GB" unless you are localising
+TAGS: {["MEES","domestic PRS","landlord guidance","Chapter 1"]}  # array of short tags
+AUDIENCE: {customers}             # customers | partners | internal | admins
+PERMISSIONS: {public}             # public | login | internal
+
+# ====== ROLE & AUDIENCE ======
+You are creating Tier‑2 customer support content (clear guidance, not legal advice) for UK landlords about the Minimum Energy Efficiency Standards (MEES).
+
+# ====== SOURCE SCOPE ======
+- Use ONLY chapter {CHAPTER_NUMBER} (“{CHAPTER_NAME}”) of the PDF "{PDF_FILE_NAME}".
+- Treat the chapter as pages {PAGE_RANGE} of the PDF and cite ONLY that range.
+- If you MUST pull a short definition that chapter {CHAPTER_NUMBER} relies on, you MAY reference the Glossary (pp. 6–7) for definitions ONLY—no other content.
+- Every factual statement MUST carry a data-source attribute pointing to the exact PDF page(s) you used.
+
+# ====== GOAL ======
+Produce ONE self‑contained **HTML5** file (lang={LOCALE}) aimed at Tier‑2 landlord support agents and knowledgeable landlords. It must be practical (what to check/do), accurate to chapter {CHAPTER_NUMBER}, and escalation‑ready (flag Tier‑3 handoffs for legal/complex scenarios).
+
+# ====== STYLE ======
+- UK English, plain language, short sentences, avoid legal advice.
+- No external CSS/JS; minimal inline CSS only for readability.
+- No images.
+- Keep neutral, instructional tone; prefer “If… then…” patterns.
+
+# ====== STRICT STRUCTURE & MARKUP SPEC ======
+(Apply ALL of these. They are hard requirements.)
+
+1) Primary content wrapper
+   - Wrap the entire article in: `<main id="main" role="main"><article id="{DOC_ID}" data-doc-id="{DOC_ID}" data-topic="{PRODUCT}" data-jurisdiction="England,Wales"> … </article></main>`
+
+2) Headings & ToC
+   - Exactly one `<h1>`.
+   - Use `<h2>` for main topics, `<h3>` for subtopics; no level jumps.
+   - Every H1/H2/H3 MUST have a stable `id` (slug); never rename once assigned.
+   - Insert a Table of Contents immediately after the H1:
+     ```html
+     <nav class="toc" aria-label="Table of contents">
+       <ul>… <a href="#{section-id}">Heading text</a> …</ul>
+     </nav>
+     ```
+
+3) Chunking model (DOM‑first; semantics over tokens)
+   - Break content into `<section>` chunks aligned to topics (≤400 words each).
+   - **Leaf sections** (hard chunk boundaries): `article > section`, `section.faq-item`, and `article > aside.escalation`.
+   - **Container sections** (do NOT chunk by these): the parent FAQ container (e.g., `section#faq`)—it exists for navigation only.
+   - Assign **ALL** sections:
+     - `id="<semantic-slug>"`
+     - `data-chunk-id="{DOC_ID}-sNN"` (sequential, zero‑padded; NN = 01, 02, …)
+     - `data-role="<one-of: summary|howto|faq|reference|troubleshooting|escalation|section>"`
+     - `data-updated="<today’s ISO date>"`
+     - `data-chunk-hash="sha1:XXXXXXXX"` where XXXXXXXX is the first 8 hex of the SHA‑1 of the section’s **normalized text** (if you cannot compute reliably, put `sha1:PLACEHOLDER` and keep stable between drafts).
+
+   - Target sizes by type:
+     - **FAQ item:** 150–350 tokens, no overlap.
+     - **Procedural/how‑to:** 250–450 tokens, allow 5–10% sentence‑boundary overlap if splitting within a section.
+     - **Narrative/reference:** 350–550 tokens, up to 10–20% overlap if needed.
+
+4) Doc‑level metadata island (machine‑readable)
+   - In `<head>` add:
+     ```html
+     <script type="application/json" data-role="doc-metadata">
+     {
+       "doc_id": "{DOC_ID}",
+       "product": "{PRODUCT}",
+       "version": "{PDF_DATE_PUBLISHED}",
+       "audience": "{AUDIENCE}",
+       "permissions": "{PERMISSIONS}",
+       "effective_date": "<today’s ISO date>",
+       "tags": {TAGS},
+       "toc": true
+     }
+     </script>
+     ```
+   - Also include `<meta name="last-modified" content="<today’s ISO date>">`.
+
+5) Structured data (JSON‑LD)
+   - Tech article block in `<head>`:
+     ```html
+     <script type="application/ld+json">
+     {
+       "@context": "https://schema.org",
+       "@type": "TechArticle",
+       "name": "{PDF_TITLE} — Chapter {CHAPTER_NUMBER}: {CHAPTER_NAME}",
+       "about": "Minimum Energy Efficiency Standards (MEES) for the domestic private rented sector",
+       "inLanguage": "{LOCALE}",
+       "jurisdiction": "England, Wales",
+       "datePublished": "{PDF_DATE_PUBLISHED}",
+       "dateModified": "<today’s ISO date>",
+       "version": "Chapter {CHAPTER_NUMBER} (Landlord guidance, Apr 2020)",
+       "isPartOf": { "@type": "CreativeWork", "name": "{PDF_TITLE}" }
+     }
+     </script>
+     ```
+   - FAQ JSON‑LD at the end mirroring the Q/A items you output.
+
+6) Must‑have content blocks (in this order)
+   A. **Header (intro + disclaimer)**  
+      - Who this is for; short 1–2 sentence lede.  
+      - Prominent disclaimer: general guidance, not legal advice.
+
+   B. **Quick compliance checks** (H2)  
+      - Ordered list with `ol[data-type="checks"]`.  
+      - Each `li` uses if/then wording and carries `data-step` and (if useful) `data-outcome`.  
+      - Every item that states a rule/date/example has `data-source-page="N"` or `"N–M"` and an inline endnote link `<a href="#sources">[p. N]</a>`.
+
+   C. **Eligibility decision steps** (H2)  
+      - `ol[data-type="steps"]` with succinct, actionable steps; cite each step.
+
+   D. **Reference sections** (H2/H3 as needed)  
+      - Short paragraphs, each with `data-source-page` + endnote.
+
+   E. **Escalation guardrails** (aside.escalation)  
+      - `<aside id="escalate-tier-3" class="escalation" data-role="escalation">`  
+      - Bullet list; each `li` `data-escalation="true"`, one‑line reason, and source page.
+
+   F. **FAQ** (container H2) + **per‑question sections**  
+      - Parent container `<section id="faq" data-role="faq">` for navigation only.  
+      - Each Q/A is its own `<section class="faq-item" id="faq-<slug>" data-role="faq">` with an H3 question and a short answer paragraph(s).  
+      - Every FAQ answer has `data-source-page` + endnote.  
+      - Mirror the FAQ items into a final JSON‑LD `FAQPage` block.
+
+   G. **Micro‑glossary** (H2)  
+      - `<dl id="glossary">`; include only terms referenced in this chapter.  
+      - First occurrence in body wraps terms as `<span data-term="Term">term</span>`.  
+      - Each definition carries `data-source-page` and an endnote.
+
+   H. **Sources** (H2 at end)  
+      - A compact bullet list: each cited page/range with a short label of what it supports.
+
+7) Citations (strict)
+   - **Every paragraph** that states a rule/date/definition/example MUST include `data-source-page="N"` (or `"N–M"`) and a compact endnote link `<a href="#sources">[p. N]</a>`.  
+   - Page numbers MUST be from {PAGE_RANGE} (or Glossary pp. 6–7 when a definition is strictly necessary).
+
+8) Accessibility & readability
+   - Semantic HTML5; each block‑level element on its own line; 2‑space indentation.
+   - No images. Tables (if any) require `<caption>`, `<thead>`, `<tbody>`, and `scope` attributes.
+
+9) Stability & IDs
+   - Freeze all generated `id` and `data-chunk-id` values once emitted; do not drift them if wording changes.
+   - `data-chunk-id` MUST follow `{DOC_ID}-sNN` (e.g., `mees-ch2-s01`).
+
+# ====== OUTPUT FORMAT ======
+- Please provide the entire HTML file wrapped inside a single fenced code block so I can copy it with the ChatGPT copy button. Start with `<!doctype html>` and `<html lang="{LOCALE}">` and finsish with </html>.
+- DO NOT include any explanation, commentary, or markdown—**just the HTML**.
+- Keep each section ≤400 words.
+- Ensure every H1/H2/H3 has an `id`, every `<section>` has `id`, `data-chunk-id`, `data-role`, `data-updated`, and `data-chunk-hash`.
+- Include both JSON‑LD blocks (TechArticle in `<head>`, FAQPage at end).
+
+# ====== QUALITY BAR ======
+- Accurate to chapter {CHAPTER_NUMBER} meaning; summarise in your own words.
+- Every rule/date/definition/example MUST have a `data-source-page`.
+- DOM‑first chunking: never merge across two different `.faq-item` sections.
+- Use consistent IDs/anchors suitable for RAG retrieval.
