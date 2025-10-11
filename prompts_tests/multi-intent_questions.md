@@ -1,0 +1,3 @@
+I'm about to grant a new tenancy on 1 May 20219 for a flat in England with an EPC F- do I have to improve to E before I signe, what if the EPC expires in 2024, and would it be different if I'd renewed with the same tenant in March 2028?
+
+I own a shop with a flat above and I let the whole thing on one agreement - is that domestic or nono-domestic for MEES, whihc EPC (Flat only or whole building) counts, and whihc trigger dates apply?
