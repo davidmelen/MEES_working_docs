@@ -1,5 +1,4 @@
 Q=No. intents=Escalation
-
 2 intents
 
 Q2- I am  renewing an assured shorthold tenancy (AST) in Wales and my Energy Performance Certificate (EPC) from 2015 is an F. Do I need to get to E before renewal, and can I still rely on the same EPC because it is under 10 years old?
@@ -14,7 +13,7 @@ Q2E I run a House in Multiple Occupation (HMO) let as individual rooms — do th
 Comments - HMO
 
 Q2E My cottage is furnished holiday accommodation and I cover the energy bills — is an EPC required, and if it isn’t, does that mean MEES doesn’t apply?
-Comments - Holiday let
+Comments - Holiday let 
 
 Q2E One place is on a regulated tenancy that started in the 80s — do MEES apply, and do I need to do anything now if there’s no EPC on record?
 Comments - 
@@ -24,8 +23,9 @@ Comments - <50m2
 
 3 Intents
 
-Q3- I’m about to grant a new tenancy on 1 May 2019 for a flat in England with an EPC F — do I have to improve to E before I sign, what if the EPC expires in 2024, and would it be different if I’d renewed with the same tenant in March 2018?
-Comments
+Q3- I’m about to renew a tenancy from 1 May 2019 for a flat in England with an EPC F — do I have to improve to E before I sign, what if the EPC expires in 2024, and would it be different if I’d renewed with the same tenant in March 2018?
+Comments - 
+Improvements:
 
 Q3E I own a shop with a flat above and I let the whole thing on one agreement — is that domestic or non‑domestic for MEES, which EPC (flat only or whole building) counts, and which trigger dates apply?
 Comments
