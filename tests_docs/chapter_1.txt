@@ -1,0 +1,704 @@
+Chapter 1: How the Regulations Apply to Domestic Property  
+ 
+The Regulations mean that a domestic private rented property in England or 
+Wales should not be let if its energy performance indicator is below EPC E.  
+This chapter is aimed at domestic landlords and outlines the factors landlords 
+need to consider when determining if a property they let is covered by the 
+minimum level of energy efficiency provisions. Enforcement authorities and 
+others with an interest in domestic rented property will also find this 
+information useful. 
+
+1.1 Domestic private rented sector (PRS) scope 
+1.1.1 Properties covered by the minimum level of energy efficiency 
+provisions  
+The Regulations discussed in this guidance document apply to all domestic PRS 
+properties in England and Wales which are: 
+ 
+a) let under certain types of domestic tenancy (see section 1.1.2 below) and  
+b) which are legally required to have an Energy Performance Certificate 
+(EPC) (see section 1.1.4 below).  
+  
+For the avoidance of doubt, this means that where a domestic private rented 
+property meets these two conditions, it will be covered by the Regulations, 
+irrespective of property type, length of tenancy, location, listed status, property 
+size or any other characteristic. Conversely, where a property is let on a relevant 
+tenancy type but is not legally required to have an EPC, or if it is required to have 
+an EPC but is not let on a relevant tenancy, that property will not be covered and 
+will not be required to comply with the Regulations. 
+ 
+Licence vs Tenancy 
+Please note, licences are not the same as tenancies, and a licence is not 
+considered to be a tenancy for the purposes of the Regulations. A tenancy 
+grants exclusive possession of the property, while a licence is merely 
+permission for a licensee to do something on the property. If there are any 
+concerns about whether a property is occupied under a licence or a 
+tenancy, and whether the landlord is subject to the Regulations, legal 
+advice should be sought. 
+ 
+1.1.2 Relevant Tenancies (regulation 19) 
+For the purposes of the domestic minimum standard provisions the relevant 
+tenancy types are11:  
+• An assured tenancy (including an assured shorthold tenancy) defined in 
+the Housing Act 1988; 
+• A regulated tenancy defined in the Rent Act 1977; 
+• A domestic agricultural tenancy as set out in the Energy Efficiency 
+(Domestic Private Rented Property) Order 201512 as follows: 
+o A tenancy which is an assured agricultural occupancy for the 
+purposes of section 24 of the Housing Act 1988; 
+o A tenancy which is a protected occupancy for the purposes of 
+section 3(6) of the Rent (Agriculture) Act 1976; 
+o A statutory tenancy for the purposes of section 4(6) of the Rent 
+(Agriculture) Act 1976. 
+ 
+Background information on common domestic tenancy types can be found here13 
+and at Appendix B. 
+ 
+Social Housing Exclusion 
+The minimum standards do not apply in the social housing sector. 
+Therefore, even if a property is let on one of the tenancy types listed above, 
+it will be excluded from the minimum standard provisions if it is either of the 
+following14: 
+ 
+- Low cost rental accommodation defined by section 69 of the Housing and 
+Regeneration Act 2008 and the landlord is a private registered provider of 
+social housing; or 
+- Low cost home ownership accommodation within the meaning of section 
+70 of the Housing and Regeneration Act 2008. 
+ 
+A property will also be excluded if the landlord is a body registered as a 
+social landlord under Chapter 1 of Part 1 of the Housing Act 1996. 
+ 
+1.1.3 Meeting the minimum standard, and sub-standard property 
+(regulation 22) 
+Where a domestic private rented property is legally required to have an EPC and 
+is let on a tenancy type described at 1.1.2 above, it will meet the minimum 
+standard if, from the trigger dates discussed at section 1.2.1, it has a valid EPC 
+which shows that the energy efficiency rating for the property is E or above. 
+Where a property is at EPC E or above, the property will be compliant with the 
+Regulations, and the landlord will not be required to take any action.  
+ 
+A property is below the minimum level of energy efficiency, and is therefore 
+defined as sub-standard and non-compliant by the Regulations, if there is a valid 
+EPC which shows that the energy efficiency rating is below an E (i.e. it is an EPC 
+rating of F or G). In this case the landlord will need to take steps to comply, either 
+by improving the property to a minimum of EPC E (see chapter two), or 
+registering an exemption on the PRS Exemptions Register, if they meet the 
+criteria for an exemption (see chapter four). 
+ 
+ 
+1.1.4 Energy Performance Certificate (EPC) ratings 
+1.1.4.1 EPC Overview  
+As noted at the beginning of this chapter, alongside tenancy type considerations, 
+the Regulations only apply to those domestic properties which are legally 
+required to have an EPC. This means properties required to have an EPC by any 
+of the following: 
+
+• The Energy Performance of Buildings (Certificates and Inspections) 
+(England and Wales) Regulations 200715, 
+• The Building Regulations 2010,  
+• The Energy Performance of Buildings (England and Wales) Regulations 
+2012.   
+ 
+Separate government guidance on EPC rules for domestic properties can be 
+found here16. 
+Broadly speaking, since 2008 an owner or landlord has, on sale, letting or 
+construction of a property, been required to make an EPC available to the 
+prospective buyer or tenant (although in the case of construction projects, 
+typically the person carrying out the work will supply the EPC)17. In addition to 
+the above, a new EPC is likely to be necessary if a building is modified to have 
+more or fewer parts than it originally had, and the modification includes the 
+provision or extension of fixed services for heating, hot water, air conditioning or 
+mechanical ventilation (i.e. services that condition the indoor climate for the 
+benefits of the occupants). While some of the improvements which may be made 
+to a property in order to comply with the Regulations may count as modification 
+for the purposes of the EPC requirements, the majority will not.  
+Where an EPC is legally required for a property, then not having one is unlawful 
+and could be subject to non-compliance penalties18. Local weights and measures 
+authorities (usually through their trading standards officers) are responsible for 
+enforcing the Regulations that require an EPC to be made available. The Ministry 
+of Housing, Communities and Local Government (MHCLG) monitors 
+enforcement activity through regular reports compiled and submitted by these 
+authorities. 
+Further information on EPC requirements for dwellings can be found here19.  
+ 
+A sample EPC in PDF format is available at the following address: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/59
+96/2116821.pdf. 
+Where a property already has a valid EPC, this EPC can be retrieved from the 
+Domestic Energy Performance Certificate Register20 (unless the owner has 
+opted out of the EPC register).  You can search for the EPC by the property’s 
+address21 or by the EPCs report reference number22. 
+When produced, an EPC will also be accompanied by a recommendations report 
+setting out any energy efficiency measures which may be suitable for installation 
+in the property23. Answers to a range of frequently asked questions about EPCs 
+can be found here24. 
+ 
+1.1.4.2 EPCs -Ten Year Validity 
+Once an EPC is lodged on the EPC register (the EPC assessor is responsible for 
+ensuring this happens) it is valid for a period of ten years.  A new EPC is not 
+required each time there is a change of tenancy (or even when the property is 
+sold), provided the earlier certificate is no more than ten years old. An owner, 
+landlord or tenant will be free to commission a further EPC within that ten-year 
+period if they choose. If a voluntary EPC of this type is produced and lodged for a 
+property which is already legally required to have a valid EPC, then this new EPC 
+will become the current one for the property, replacing the earlier one. 
+Once an EPC reaches the ten-year point and expires, there is no automatic 
+requirement for a new one to be commissioned. A further EPC will only be 
+required the next time a trigger point is reached, i.e. when the property is next 
+sold, let to a new tenant, or modified in the manner described in section 1.1.4.1 
+EPC Overview above.  
+There is also no requirement to produce a new EPC after carrying out energy 
+efficiency improvement works to comply with the Regulations. However, for the 
+purposes of the Regulations, it is recommended that landlords do commission a 
+fresh, post installation EPC. A new EPC will reflect the improvements made, 
+alongside any change to the energy efficiency rating of the property. A post 
+installation EPC will, in all likelihood, be the easiest way for a landlord to 
+demonstrate that they have complied with the Regulations25.   
+EPCs relate to the property rather than to the owner or occupier and remain valid 
+irrespective of the owner. Therefore, an EPC obtained by a previous owner of the 
+property will remain valid after a property is sold on, so long as it is less than ten 
+years old. EPCs relate to the property rather than how it is used or occupied.  
+Therefore, an EPC obtained by a previous owner of the property will remain valid 
+after a property is sold on, so long as it is less than ten years old.
+  
+1.1.4.3 EPCs and multi-let buildings 
+In some cases, particularly for buildings which may contain multiple self-
+contained units which are let to different tenants, there may be multiple EPCs 
+covering varying parts of the building. There may also be a separate EPC 
+relating to the envelope of the building as a whole. These separate EPCs may 
+provide varying energy efficiency ratings and, depending on circumstances, may 
+have been produced at different times.  
+For the purposes of the minimum standard Regulations, the minimum EPC 
+requirement is linked to the “property” being let which can be either a “[whole] 
+building or part of a building”. In cases where the property being let is a discrete 
+unit within a building (for example a room in a house share which is rented out on 
+an individual basis), rather than the entire building, and where there is an EPC 
+for the entire building, but also one for the discrete space being let, then the 
+relevant EPC will be the one for the discrete space. Where there is only an EPC 
+for the entire building (and where an EPC for the discrete space is not legally 
+required) then that whole-building EPC will be the relevant EPC.   
+The landlord, then, should identify which EPC relates to the “property” that is 
+subject to the relevant tenancy (or tenancies) and take action to improve the 
+energy efficiency rating to the minimum standard, if necessary. A landlord should 
+seek independent legal advice if they are in any doubt about which EPC is 
+required. 
+As the relevant EPC will be the one related to the property being let, the landlord 
+will only be required to install relevant measures which improve the energy 
+performance of that property. In some cases, measures installed to improve the 
+energy efficiency of a discrete space may also improve the energy efficiency of 
+other spaces or units within a multi-let building. This is entirely acceptable.   
+ 
+1.1.4.4 Circumstances where an EPC may not be required 
+Guidance26 issued by the Ministry of Housing, Communities and Local 
+Government (MHCLG) notes that an EPC is not required where the landlord (or 
+the seller, if relevant) can demonstrate that the building is any of the following: 
+• a building that is officially protected27 as part of a designated environment 
+or because of their special architectural or historic merit where compliance 
+with certain minimum energy efficiency requirements would unacceptably 
+alter their character or appearance; 
+• a building used as places of worship and for religious activities; 
+• a temporary building with a planned time of use of two years or less; 
+• Industrial sites, workshops, non-residential agricultural buildings with low 
+energy demand and non-residential agricultural buildings which are in use 
+by a sector covered by a national sectorial agreement on energy 
+performance; 
+• stand-alone buildings with a total useful floor area of less than 50m² (i.e. 
+buildings entirely detached from any other building); or 
+• HMO’s (Houses in Multiple Occupation, for example these can be bedsits, 
+hostels, shared houses etc) which have not been subject to a sale in the 
+previous ten years, or which have not been let as a single rental in the 
+past ten years.   
+ 
+Notes on EPC exemptions for domestic premises can be found here. 
+A building will also not need an EPC where the landlord can demonstrate that it 
+is furnished holiday accommodation as defined by HMRC and the holiday-maker 
+is not responsible for meeting the energy costs. Under certain circumstances 
+buildings may also be exempt from the requirement to obtain an EPC where it 
+may be demonstrated that they are to be demolished. This is subject to a number 
+of strict conditions as set out in regulation 8 of the Energy Performance of 
+Buildings (England and Wales) Regulations 2012. Further information on the 
+definitions of the building types set out above is provided at Appendix C of this 
+guidance. 
+There are no other exceptions to the EPC obligations although there may be 
+some transactions which do not qualify as a sale or a letting.  If in doubt, legal 
+advice should be sought. Please note that neither BEIS or MHCLG are able to 
+provide specific advice regarding whether any of these EPC exemptions apply to 
+specific properties. 
+ 
+1.1.4.5 Voluntary EPCs obtained for properties which are not legally 
+required to have one 
+In situations where an owner or occupier of a building which is not legally 
+required to have an EPC has obtained one voluntarily (i.e. a voluntary EPC for a 
+property which has not been sold, let or modified within the past ten years), the 
+landlord will not be required to comply with the minimum standard Regulations 
+(and no exemption will be necessary, as the minimum standard Regulations will 
+not apply to that property). A voluntary EPC may have been commissioned by a 
+landlord who believed in error that one was required for their property, or it may 
+be one commissioned by a property owner or occupant who simply wanted 
+reliable advice on how to reduce energy waste.  
+A voluntary EPC may be registered on the official EPC database, but there is no 
+requirement to do so. Where a voluntary EPC has been registered on the 
+database it will supersede any earlier EPC that may have existed for the 
+property, but official registration of a voluntary EPC will not, in itself, require the 
+landlord to comply with the minimum standard.  
+However, if having acquired a voluntary EPC for a property they let, a landlord 
+subsequently markets that property for let, that act will trigger the legal 
+requirement for the property to have an EPC (and the EPC details will need to be 
+displayed as part of the marketing material for that property). The landlord will be 
+able to use the voluntarily obtained EPC to market the property (so long as the 
+EPC is less than 10 years old), and the fact that the property is now legally 
+required to have an EPC will mean that the property will now be covered by the 
+minimum standard Regulations (even though the EPC was initially obtained on a 
+voluntary basis). 
+ 
+Listed Buildings and EPC Compliance 
+There is a common misunderstanding regarding listed buildings and 
+whether they are exempt from the legal requirement to obtain an EPC. 
+Listed properties, and buildings within a conservation area, will not 
+necessarily be exempt from the requirement to have an EPC when they are 
+sold or let and it will be up to the owner of a listed building to understand 
+whether or not their particular property is required to have one. Where a 
+listed domestic private rented property, or a property within a conservation 
+area, is required to have an EPC, that property will be within scope of the 
+minimum energy efficiency standard and will need to be compliant 
+(complying means either being at a minimum of EPC band E, or having a 
+valid exemption registered for it). If a property is not legally required to have 
+an EPC, then that property will not be covered by the minimum standard 
+Regulations, and no exemption will be necessary. 
+Guidance issued by the Ministry of Housing, Communities and Local 
+Government (MHCLG) on EPC requirements29 states: 
+[B]uildings protected as part of a designated environment or because of 
+their special architectural or historical merit are exempt from the 
+requirements to have an energy performance certificate insofar as 
+compliance with minimum energy performance requirements would 
+unacceptably alter their character or appearance. 
+To comply with minimum energy performance requirements, many of the 
+recommendations in an EPC report e.g. double glazing, new doors and 
+windows, external wall insulation, and external boiler flues would likely 
+result in unacceptable alterations in the majority of historic buildings. These 
+can include buildings protected as part of a designated environment or 
+because of their special architectural or historical merit (e.g. listed buildings 
+or buildings within a conservation area). In these cases, an EPC would not 
+be required. 
+Building owners will need to take a view as to whether this will be the case 
+for their buildings. If there is any doubt as to whether works would 
+unacceptably alter the character or appearance of a building, building 
+owners may wish to seek the advice of their local authority’s conservation 
+officer. 
+ 
+In all cases it is vital that a landlord understands whether their property is legally 
+required to have an EPC at any time from 1 April 2018 onwards, and whether it is 
+or is not exempt from having to comply with the minimum level of energy 
+efficiency provisions. If there is any doubt about whether a property (or the 
+building it is in) is legally required to have an EPC (or whether an existing EPC is 
+legally required or voluntary), or about any of the other criteria described above, 
+advice should be sought from the local trading standards team.   
+  
+EPC Requirements, Ten Year Validity and the Minimum Energy 
+Efficiency Standard 
+The following scenarios are provided as illustrative examples, highlighting 
+the ten-year validity of an EPC and the interactions with the minimum 
+standards: 
+
+Scenario one: 
+A landlord intends to let a property on a new tenancy from 1 April 2019: If 
+the property already has an EPC which is less than ten years old then this 
+EPC can be used to let the property. If there is no EPC, or if there is an 
+EPC which is more than ten years old, then the landlord will be required to 
+obtain a new EPC to market and let the property. If the EPC (whether new 
+or existing) shows an energy efficiency rating of F or G then the landlord will 
+need to carry out energy efficiency improvement works (with a maximum 
+value of £3,500) sufficient to improve the property to a minimum of E, or 
+register a valid exemption if applicable, before issuing a tenancy 
+agreement.  
+
+Scenario two: 
+A property let on a ten-year assured tenancy with an EPC rating of F, where 
+the EPC was legally required and was obtained in 2015:  On 1 April 2020 
+(the minimum standard “backstop” date – see section 1.2.1) the landlord is 
+continuing to let the property and will have to comply with the minimum 
+energy efficiency provisions. This is because there is a valid, legally 
+required EPC for the property (the EPC will continue to be valid until 2025) 
+and the minimum standard “backstop” date has been reached. 
+
+Scenario three: 
+An EPC F rated property let on a twenty year tenancy where the EPC was 
+obtained in 2009:  On 1 April 2020 the landlord is continuing to let the 
+property, but in this scenario the property will not be captured by the 
+minimum energy efficiency provisions because the EPC will have expired 
+during 2019, and there is no legal requirement on the landlord to obtain a 
+new one at that point (because the tenancy is ongoing). The landlord will 
+only be required to obtain a new EPC (which will trigger a need to comply 
+with the minimum energy efficiency provisions) if they intend to remarket the 
+property for let once the current tenancy expires, or if they (or their tenant) 
+modify the property in a manner which would require a new EPC to be 
+obtained.
+
+Note: Landlords will wish to be aware that the calculation methodologies 
+underpinning EPCs are updated periodically to account for new 
+performance data (the methodology for existing dwellings is called the 
+Reduced Data Standard Assessment Procedure, or RdSAP). This means 
+that, depending on the characteristics of a particular building, or unit within 
+a building, the EPC band may change irrespective of any improvement 
+works undertaken. Therefore, even if an EPC for a property is current (i.e. 
+less than ten years old), the landlord may wish to obtain advice as to the 
+rating that would apply to the building if a fresh EPC were commissioned, 
+before deciding on a particular course of action in relation to compliance 
+with the Regulations. 
+RdSAP was last revised in late 2017, to encompass the latest 
+developments in energy efficiency technology and other developments in 
+the sector.
+
+1.2 When do the minimum level of energy efficiency 
+provisions apply? 
+1.2.1 Prohibition on letting sub-standard domestic property 
+(regulation 23) 
+The domestic minimum standard is being introduced in a phased manner, with 
+triggers for new tenancies entered into from 1 April 2018 onwards, and a 
+“backstop” date of 1 April 2020 for all remaining tenancies.   
+This means that, from 1 April 2018 onwards, landlords must not grant a new 
+tenancy, or renew or extend an existing tenancy agreement to let EPC F or G 
+rated domestic property, unless either: 
+
+• the landlord has made all the relevant energy efficiency improvements that 
+can be made to the property (or there are none that can be made) and the 
+property’s energy performance indicator is still below an EPC E, and this 
+exemption has been registered on the PRS Exemptions Register; or 
+• no improvements have been made but a valid exemption applies which 
+has been registered on the PRS Exemptions Register. 
+ 
+Then, from 1 April 2020, landlords must not continue to let a sub-standard 
+domestic property, even to existing tenants (where there has been no tenancy 
+renewal, extension or indeed new tenancy), unless:  
+• all relevant energy efficiency improvements have been made (or there are 
+none that can be made), the EPC remains below E, and the situation has 
+been registered on the Exemptions Register; or 
+• no improvements have been made but a valid exemption applies and has 
+been registered on the PRS Exemptions Register. 
+ 
+So, since 1 April 2018, where a landlord intends to let a domestic property (or 
+from 1 April 2020 continue to let such a property) they need to check whether 
+their property is covered by the minimum level of energy efficiency provisions (as 
+discussed above), and, if so, ensure that the EPC rating is at E or above (as 
+discussed at section 1.1.3 above). If the EPC rating is below E, the landlord must 
+either take appropriate steps to improve the rating to meet the minimum standard 
+(see chapter two for more details) or register an exemption, if one applies (see 
+chapters four and five for details on exemptions).  
+ 
+Meaning of “grant a new tenancy”  
+A tenancy is granted on the date a binding tenancy agreement is entered 
+into between the landlord and the tenant. A binding tenancy agreement is a 
+contract in which all the terms and conditions of the tenancy are finalised 
+and there is an intention to vest exclusive possession to the tenant, either 
+immediately or at a future date. Therefore, the grant of the tenancy 
+becomes effective on the date all the terms and conditions are agreed, even 
+where the date on which the tenant is permitted to take up possession of 
+the property is subsequent to the date on which the tenancy is granted. 
+For example, if a tenancy was granted before 1 April 2018 but the tenant 
+took possession of the property on or after 1 April 2018, the landlord would 
+not be subject to regulation 23. Providing the Landlord does not grant a new 
+tenancy, or renew or extend the existing tenancy on or after 1 April 2018, 
+the landlord will have until 1 April 2020 to improve the property’s rating to an 
+E (or register an exemption, if one applies).   
+ 
+1.2.2 Subletting of domestic property 
+The responsibility for not letting a domestic property below EPC E applies to any 
+person who lets, or proposes to let, a domestic private rented property. If the 
+original tenancy allows a tenant to sublet the property, and that tenant proposes 
+to enter into a sub-tenancy as a new landlord to a sub-tenant, then that original 
+tenant/new landlord should not let the property until the minimum standard is 
+reached, or until a valid exemption has been registered.  
+In the case of subletting, an original tenant/new landlord may (subject to the 
+terms of their tenancy) need to obtain consent from their superior landlord before 
+making improvements to meet the minimum standard. Note that from 1 April 
+2020, there is a continuing obligation on all domestic landlords to ensure the 
+requirements of the Regulations are met (even where there has been no change 
+or renewal of a tenancy), so the superior landlord should have already taken 
+steps to improve a property to E before a post April 2020 subletting occurs.  
+ Box Four 
+Tenant obtaining landlord consent 
+Where a tenant is looking to improve the energy efficiency of a property in 
+preparation for renting that property to a sub-tenant (or for any other 
+reason), that tenant may be required to obtain landlord consent before 
+making the improvements. 
+The tenant should request consent from their landlord in the way specified 
+in their tenancy agreement. If the landlord consents, then the work may 
+proceed, subject to any conditions which the landlord may have placed on 
+the tenant. However, if the landlord withholds consent (or fails to respond to 
+the request), then the tenant may have recourse to the Tenants’ Energy 
+Efficiency Improvements provisions in Part 2 of the Regulations. Under 
+these provisions tenants can request consent from their landlord to install 
+energy efficiency improvements in the property they rent, and the landlord 
+may not unreasonably refuse consent. These rights took effect from April 
+2016, and are subject to the tenant securing suitable funding for the 
+requested improvements.  
+Guidance on the Tenant’s Energy Efficiency Improvements provisions can 
+be found here. 30 
+ 
+The extent to which a tenant is allowed to sublet a property will depend on the 
+specific provisions of their particular tenancy. Even where subletting is permitted, 
+the tenancy may make specific provision for which party would be liable for 
+improvement costs in any given situation. For this reason, superior landlords, 
+sub-landlords and tenants are advised to consult their tenancy, and seek their 
+own advice, when considering their rights and responsibilities under their 
+tenancy. 
+Readers should also note that there are clear differences between subletting 
+(where a tenant may become a landlord for the purposes of the Regulations), 
+and arrangements such as assignment. In situations which do not result in the 
+tenant becoming a new landlord for the purposes of the Regulations, any 
+requirement to meet the minimum standard will remain with the original landlord. 
+Again, appropriate legal advice should be sought if there is any doubt. 
+ 
+Example Subletting Scenario 
+The following scenarios are provided as illustrative examples, highlighting 
+the way the minimum standards will apply to sub-letting scenarios pre and 
+post April 2020. 
+In both scenarios the original tenant is the tenant of an F rated property 
+where the tenancy was entered into before April 2018. 
+
+Scenario one - pre-April 2020 
+If the original tenant sublets the property during 2019 or early 2020, liability 
+for compliance with the minimum standard sits with that tenant (who is now 
+a landlord) as that (original) tenant is now the landlord for the tenancy which 
+has triggered the need to comply with the minimum standard. 
+
+Scenario two - post April 2020 
+If the original tenant intends to sublet the property after 1 April 2020 (after 
+the backstop date has come into force), the original landlord should already 
+have taken steps to either improve the property to a minimum of E, or 
+register an exemption, if one applies. If this has not taken place then the  
+original tenant will be unable to lawfully sublet the property until steps have 
+been taken (either by the landlord, or by the original tenant on the landlord’s 
+behalf) to rectify the situation. 
+If the landlord has not improved the property to E (or higher) by 1 April 2020 
+(or registered a valid exemption) they will be in breach of the Regulations 
+for continuing to let a “sub-standard” property and may be subject to 
+enforcement proceedings (see chapter six for more details on enforcement).
+
+1.3. Mixed use properties and tenancy types 
+There will be situations where a landlord will be a landlord of a property which 
+includes a mix of residential and commercial units, and a mix of commercial and 
+residential tenants. Examples will range from a building with a shop on the 
+ground floor and one or two flats on the upper floors, to larger buildings with a 
+number of commercial units on the ground floor and multiple residential flats on 
+the upper floors.  
+The Regulations apply to rented properties within such mixed-use buildings, 
+although the triggers may be different depending on whether particular units are 
+domestic or non-domestic. In many cases the distinction between the commercial 
+and the residential units will be clear; however, there may be instances where a 
+mixed-use property is let as a single unit. Where such a property falls below an 
+EPC rating of E, the landlord will need to examine the tenancy to determine 
+whether the property is domestic or non-domestic for the purposes of the 
+Regulations, and whether it is required to comply with the minimum standard, 
+and if so, by which trigger date31. 
+Where a mixed-use property is rented on an assured tenancy (including an 
+assured shorthold tenancy) for the purposes of the Housing Act 1988, a 
+regulated tenancy under the Rent Act 1977, or a domestic agricultural tenancy 
+under the Energy Efficiency (Domestic Private Rented Property) Order 2015, 
+then it is likely to be considered a domestic property and should be treated 
+accordingly. 
+If a privately rented property is let under a tenancy but is not considered a 
+“dwelling”, then it will be considered a non-domestic private rented property for 
+the purposes of the Regulations32, and will need to comply with the minimum 
+standards in accordance with the non-domestic trigger dates. In all cases it will 
+be for the landlord to check their tenancy arrangements to understand what type 
+of tenancy is in place, and they should seek appropriate legal advice if there is 
+any uncertainty as to whether a property falls within the domestic or non-
+domestic category33. Landlords may also wish to discuss any concerns with the 
+relevant enforcement authority before determining any course of action. 
+
+The Housing Health and Safety Rating System (HHSRS) 
+While not directly related to the minimum level of energy efficiency, 
+landlords should be aware of the Housing Health and Safety Rating System 
+(HHSRS). The HHSRS is used to assess health and safety in residential 
+properties, and was introduced by the Housing Act 2004. It assesses a 
+range of potential hazards, including damp, excess cold and excess heat 
+and categorises them according to seriousness. 
+Local authorities have strong powers under the Housing Act 2004 to tackle 
+poor property conditions which may impact peoples’ health. They must take 
+enforcement action where the most serious hazards are present. 
+If a local authority identifies a serious “category 1” hazard, it has a duty to 
+take the most appropriate action. It may also take action for less serious 
+category 2 hazards where this is considered the most satisfactory course of 
+action. The HHSRS does not deal with a property being inefficient from an 
+energy point of view; rather, action can be taken if there is excess cold or 
+damp at the property, for example, but these two hazards can overlap in a 
+situation where a property needs improvement from an energy efficiency 
+perspective. 
+Depending on the case, local authorities may aim to deal with problems 
+informally at first, but if this is unsuccessful they may take legal action 
+against a landlord requiring them to carry out improvements to the property; 
+for example, by installing central heating and/or insulation to improve cold 
+properties. Where a legal notice is served under the Housing Act 2004, the 
+landlord will have to meet the cost of the required work. 
+While some landlords of F and G rated rental properties may be able to 
+claim valid exemptions from the requirement to improve a property to EPC 
+E, this exemption will not excuse them from meeting the existing obligation 
+keep their property free from serious hazards.  Failure to do so may result in
+enforcement action regardless of the fact that the property may be exempt 
+from the minimum level of energy efficiency. 
+Because the HHSRS is so important to local authority enforcement of 
+decent standards, and thereby the protection of peoples’ health, the 
+Government has commissioned a scoping review to assess how well the 
+HHSRS works in practice and ensure it is fit for purpose. 
+Depending on the recommendations of the scoping review, a second review 
+phase could involve anything from a full root-and-branch revision of the 
+HHSRS down to a simple refresh of the standard and its accompanying 
+guidance. 
+The Government has also supported the Homes (Fitness for Human 
+Habitation) Act which will come into force on 20th March 2019 and will 
+require landlords to ensure that their properties are kept free of potentially 
+serious hazards at the start of and throughout a tenancy.  Where a landlord 
+fails to do so, their tenants will be able to seek redress in the courts. 
+ 
+Frequently Asked Questions Relevant to Chapter One
+
+Q: When do the minimum standard provisions come into force? 
+A: The minimum standard came into effect for new domestic tenancy 
+agreements from 1 April 2018, and will apply to all tenancies (including long 
+term tenancies) from 1 April 2020, unless a lawful exemption applies (see 
+chapter four).
+
+Q: What types of tenancies are covered by the Regulations? 
+A: The tenancy types are: 
+• An assured tenancy (including an assured short hold tenancy) as 
+defined in the Housing Act 1988; 
+• A regulated tenancy defined in the Rent Act 1977; and 
+• A domestic agricultural tenancy as set out in the Energy Efficiency 
+(Domestic Private Rented Property) Order 2015 (see section 1.1.2 
+Relevant Tenancies for more details).
+
+Q: Are these Regulations UK-wide? 
+A These Regulations apply to properties rented in England and Wales only. 
+They do not apply to rental properties situated in Scotland or Northern Ireland.
+
+Q: When do domestic private rented properties need to be at EPC E by? 
+A: All domestic private rented properties covered by the minimum standard 
+Regulations (i.e. those which are legally required to have an EPC, and which 
+are let on a relevant tenancy type – see Q 2 above) must be at a minimum of 
+EPC band E by 1 April 2020 (or have a valid exemption registered for them).  
+Between 1 April 2018 and 1 April 2020, properties will only need to meet the 
+standard (or have a valid exemption registered) at the point at which a new 
+tenancy is entered into. Where no new tenancy has been entered into (i.e. the 
+property is being let on a tenancy entered into before April 2018), a domestic 
+private rented property may be lawfully let below EPC band E up until 1 April 
+2020.
+
+Q: My property is already above EPC F or G; do I need to do anything? 
+A: No. If a domestic private rented property is already above EPC F or G, then 
+no action is required by the landlord.
+
+Q: What is an EPC and when is it required? 
+A: Energy Performance Certificates (EPCs) are needed whenever an eligible 
+property is constructed, or marketed for sale or let. Property owners must 
+provide an EPC for potential buyers or tenants before marketing a property. 
+This is a requirement of the Energy Performance of Buildings (England and 
+Wales) Regulations 2012. In addition, a landlord will be required to obtain an 
+EPC after installing certain improvements before they let the property. This is a 
+requirement of the Building Regulations 2010. 
+An EPC contains: 
+ • information about a property’s energy use and typical energy costs, 
+• recommendations about how to reduce energy use and save money 
+An EPC for a domestic building gives the property an energy efficiency rating 
+from A (most efficient) to G (least efficient) and is valid for ten years. The EPC 
+relates to the property rather than to the owner, therefore an EPC obtained by 
+a previous owner of the property will remain valid even after a property is sold 
+on, so long as it is less than ten years old.
+
+Q: How do I arrange an assessment in order to determine my property’s 
+EPC rating and (if necessary what improvement works are needed to 
+bring the minimum standard) who would perform the assessment? 
+A: You can search for an accredited assessor to undertake a domestic EPC 
+assessment here34. Since 2008 all rental properties (with few exceptions) have 
+been required to have a valid EPC before being let on a new tenancy. 
+Therefore, you should already have an EPC for your rental property, and to not 
+have one is unlawful. If you do not have an EPC for the property that you rent, 
+you should make arrangements to obtain one immediately.
+
+Q: How can I find out the current EPC rating for my property is? 
+A: If you don’t have your certificate to hand then you can search for a PDF 
+copy using the property postcode here35.
+
+Q: Are Houses in Multiple Occupation (HMOs) excluded from the 
+minimum standard Regulations?  
+A: HMOs are not excluded from the Regulations. The Regulations apply to all 
+domestic private rented properties which are legally required to have an EPC, 
+and which are let (including the letting of individual rooms) on a relevant 
+tenancy type (see section 1.1.2). An HMO will be in scope where it meets 
+these two criteria.  
+However, individual rooms within HMOs are not required to have their own 
+EPC, so a property which is an HMO will only have an EPC if one is required 
+for the property as a whole (typically this will be if the property has been build, 
+sold or rented as a single unit at any time in the past 10 years).  If an HMO is 
+legally required to have an EPC, and if it is let on one of the qualifying tenancy 
+types, then it will be required to comply with the minimum level of energy 
+efficiency.   
+
+Q: I am a landlord who lets holiday cottages throughout the year. I do not 
+know the basis on which these particular properties are let; am I still 
+required to comply with the minimum standard Regulations? 
+A: Holiday cottages are typically let under a licence to occupy, rather than a 
+tenancy. This type of rental property is, therefore, generally outside of the 
+scope of the Regulations and not required to meet the minimum standard. If 
+there are any concerns about whether a property is occupied under a licence 
+or a tenancy, and whether the landlord is subject to the Regulations, legal 
+advice should be sought. 
+
+Q: How long is an EPC valid for and when or what triggers 
+reassessment? 
+A: Once produced, an EPC will be valid for ten years. A landlord can choose to 
+commission a new EPC at any time for any reason, but this would be entirely 
+voluntary. The only time a new EPC is legally required for a property is if the 
+most recent certificate is more than ten years old, and the property is to be 
+marketed for sale, or for rent to a new tenant.  
+
+Q: I am a landlord with multiple F or G rated properties. Is there any 
+flexibility that would be shown to me due to the scale of works that I need 
+to commission? Is there a limit on the number of properties that I would 
+need to improve to EPC E? 
+A: No, all properties covered by the Regulations will need to comply and there 
+is no limit on the number of properties a multi-property-owning landlord would 
+be required to ensure are compliant. The amended Regulations are clear that 
+landlords only need to undertake improvements which can be made either 
+using third-party funding, or for £3,500 (inc. VAT) or less if self-funding. If no 
+improvements can be made under either of these scenarios, the landlord would 
+need to register an exemption for that property rather than improve it to E. But, 
+assuming that improvements can be made for £3,500 (inc. VAT) or less (even 
+if this does not improve the property all the way to E), there is no limit to the 
+number of sub-standard properties a landlord is required to improve. 
+However, landlords should note that between 1 April 2018 and 1 April 2020, 
+properties only need to be improved to meet the standard when a new tenancy 
+is entered into with a new or existing tenant. If a new tenancy has not been 
+ entered into during that period, then a property may still be lawfully let below 
+EPC E. Therefore, landlords with multiple properties would not necessarily 
+need to improve all of their sub-standard properties at the same time and can 
+phase improvement work over this two-year period as and when new tenancies 
+are entered into.
+
+Q: Are there any types of domestic rental property which are not covered 
+by the Regulations 
+A: The Regulations provisions apply to all domestic private rented properties 
+that are a) legally required to have an EPC, and b) are let on a qualifying 
+tenancy type.   
+Listed buildings (and buildings within a conservation area) will not be required 
+to meet the standards outlined in the Regulations if they are not required to 
+have an EPC. If an individual listed building is required to have an EPC (and if 
+it is let on a qualifying tenancy type) then it will be covered by the Regulations.  
+An HMO which is not required to have an EPC (for example, if it has not been 
+bought/sold in the previous ten years, or if it has not previously been rented out 
+as a single property) will likewise not be covered by the Regulations.   
+
+Q: What are the average energy bills for domestic properties across 
+different EPC bands? 
+A: The average modelled annual energy bills by EPC band using the Standard 
+Assessment Procedure (SAP) methodology are as follows: 
+EPC Band 
+Average Annual 
+Energy Bills, SAP-
+based (201636) 
+A/B £410 
+C £660 
+D £970 
+E £1,420 
+F £2,120 
+G £3,100
